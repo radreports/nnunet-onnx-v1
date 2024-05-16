@@ -2,4 +2,4 @@ torch
 torchvision 
 onnx
 onnxruntime
-nnunetv1
+nnunet
